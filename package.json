@@ -4,14 +4,7 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
-    "normalize.css": "latest",
-    "jquery": "latest",
-    "bootstrap" : "latest",
-    "animate.css": "latest",
-    "wowjs": "latest",
-    "magnific-popup": "^1.1.0",
-    "slick-slider": "latest",
-    "mixitup": "latest"
+    "normalize.css": "latest"
   },
   "devDependencies": {
     "browser-sync": "latest",
